@@ -2,4 +2,5 @@ Rainbow poem
 red
 green
 orange
+blue
 these are the colours of the rainbow
